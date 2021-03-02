@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "310912573089",
+    "project_id": "masternative-e3c1e",
+    "storage_bucket": "masternative-e3c1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310912573089:android:fdb8781cc13406fc3b5ae0",
+        "android_client_info": {
+          "package_name": "com.example.nativeadsmaster_realfz_"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310912573089-e52fp90prd1gt7b57tu8t9k9k76a3e8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAoruXzoEAhfhp_J2Q6dm8S4IV9F5Zmoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310912573089-e52fp90prd1gt7b57tu8t9k9k76a3e8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
